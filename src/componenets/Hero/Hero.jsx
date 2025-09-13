@@ -10,7 +10,7 @@ function Hero() {
     <div id="Home" className='hero'>
       <img src={profile_img} alt="" />
       <h1><span>I'm Dullah Mohamed,</span>frontend developer based in Melapalayam</h1>
-      <p>I am a frontend developer from melapalayum,with 2 months of experience and i have well knowledge in Sql.</p>
+      <p>I am a frontend developer from melapalayam,with 2 months of experience and i have well knowledge in Sql.</p>
       <div className="hero-action">
         <div className="hero-connect" > <AnchorLink className='anchor-link' offset={50} href='#mywork'>Connect with me</AnchorLink></div>
        

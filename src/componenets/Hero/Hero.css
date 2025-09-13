@@ -65,7 +65,7 @@
 .hero-resume:hover{
     border-color:#b415ff;
 }
-@media(max-width:768px){
+@media(max-width:758px){
     .hero img{
         margin-top:10px;
         width:160px;

@@ -43,10 +43,13 @@
     display:none;
 }
 .dul{
-    width: 80px;
+    margin-left:0px;
+    margin-top: 20px;
+    width: 90px;
+    border:none;
     border-radius: 60px;
 }
-@media(max-width:768px){
+@media(max-width:758px){
     .navbar{
         margin:20px 50px;
     }

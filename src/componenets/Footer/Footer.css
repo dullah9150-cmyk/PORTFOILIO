@@ -62,7 +62,7 @@
 .footer-email-input:hover{
     border: 2px solid white;
 }
-@media(max-width:768px){
+@media(max-width:758px){
     .footer{
         margin:50px 70px;
 
